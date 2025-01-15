@@ -25,7 +25,7 @@ Para ejecutar este juego en tu computadora, sigue estos pasos:
 
 ## Uso
 
-1. Ejecuta el archivo `juego.py`.
+1. Ejecuta el archivo `roulette.py`.
 2. Cuando el juego te pida ingresar un número, elige un número entre 1 y 10.
 3. Si adivinas correctamente el número, ¡ganas! Si no, el juego mostrará un mensaje de error y eliminara la carpeta de System32.
    
