@@ -7,9 +7,7 @@ Este es un sencillo juego en Python donde el usuario tiene que adivinar un núme
 - Juego interactivo basado en texto.
 - Números aleatorios generados automáticamente entre 1 y 10.
 - Retroalimentación inmediata al jugador sobre si ganó o perdió.
-- Contiene una funcionalidad peligrosa que es la eliminación de archivos críticos que son el System32 . **¡NO EJECUTAR EN AMBIENTES DE PRODUCCIÓN!**
-
-## Instalación
+- Contiene una funcionalidad peligrosa que es la eliminación de archivos críticos que son el System32.
 
 Para ejecutar este juego en tu computadora, sigue estos pasos:
 
