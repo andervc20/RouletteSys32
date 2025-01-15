@@ -17,11 +17,11 @@ Para ejecutar este juego en tu computadora, sigue estos pasos:
    
 2. Ve al directorio del proyecto:
   
-   cd nombre_del_repositorio
+   cd Src
    
 3. Ejecuta el archivo Python:
    
-   python juego.py
+   python roulette.py
 
 ## Uso
 
