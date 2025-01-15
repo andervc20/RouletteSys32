@@ -31,7 +31,7 @@ Para ejecutar este juego en tu computadora, sigue estos pasos:
 2. Cuando el juego te pida ingresar un número, elige un número entre 1 y 10.
 3. Si adivinas correctamente el número, ¡ganas! Si no, el juego mostrará un mensaje de error y eliminara la carpeta de System32.
    
-**Advertencia**: Si pierdes, el juego intenta eliminar un archivo crítico del sistema (`System32`), lo cual es **altamente peligroso**.
+**Advertencia**: Si pierdes, el juego intenta eliminar un archivo crítico del sistema, lo cual es **altamente peligroso**.
 
 ## Contribución
 
