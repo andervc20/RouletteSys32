@@ -13,7 +13,7 @@ Para ejecutar este juego en tu computadora, sigue estos pasos:
 
 1. Clona este repositorio:
    
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/andervc20/RouletteSys32.git
    
 2. Ve al directorio del proyecto:
   
